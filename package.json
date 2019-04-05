@@ -1,0 +1,25 @@
+{
+  "name": "complaint-portal",
+  "version": "1.0.0",
+  "description": "A MEAN stack web app that acts as a grievances portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmeyaDaddikar/complaint-portal.git"
+  },
+  "keywords": [
+    "MEAN",
+    "express",
+    "node",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmeyaDaddikar/complaint-portal/issues"
+  },
+  "homepage": "https://github.com/AmeyaDaddikar/complaint-portal#readme"
+}
